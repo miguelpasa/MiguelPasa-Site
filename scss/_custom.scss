@@ -1,3 +1,9 @@
 .code-img {
 	margin-right: 10px;
 }
+
+header {
+	&.masthead {
+		background-image: url(../img/me.jpg);
+	}
+}
